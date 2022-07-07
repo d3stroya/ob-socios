@@ -1,0 +1,4 @@
+com\d3stroya\springrestsocios\entidades\Socio.class
+com\d3stroya\springrestsocios\repositorio\SocioRepositorio.class
+com\d3stroya\springrestsocios\Controladores\SocioControlador.class
+com\d3stroya\springrestsocios\SpringRestSociosApplication.class
